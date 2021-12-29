@@ -1,0 +1,28 @@
+{
+  "name": "frontendorgevent",
+  "version": "1.0.0",
+  "description": "Frontend para mostrar noticias y eventos sociales de un centro vecinal",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melisa500/FrontendOrgEvent.git"
+  },
+  "keywords": [
+    "ES"
+  ],
+  "author": "Melisa500",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melisa500/FrontendOrgEvent/issues"
+  },
+  "homepage": "https://github.com/Melisa500/FrontendOrgEvent#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "save": "^2.4.0"
+  }
+}
